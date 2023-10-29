@@ -1,6 +1,5 @@
 "use client";
 import React from "react";
-import { CarouselStylesType } from "@material-tailwind/react";
 import { Carousel as CarouselResponsive } from "@material-tailwind/react";
 import { ChevronRightIcon, ChevronLeftIcon } from "@heroicons/react/24/outline";
 
